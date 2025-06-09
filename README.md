@@ -1,4 +1,4 @@
-# Product Authenticity & Trust Scoring System
+## Product Authenticity & Trust Scoring System
 
 This project detects counterfeit products and flags fraudulent listings on e-commerce platforms using AI and rule-based techniques.
 
